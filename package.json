@@ -1,7 +1,7 @@
 {
   "name": "BMS-TEST",
   "version": "1.0.0",
-  "description": "BookMyShow react assesment",
+  "description": "Basic sample of Redux using next.js boilerplate with github user api",
   "main": "index.js",
   "author": "Kalim Khan",
   "license": "MIT",
